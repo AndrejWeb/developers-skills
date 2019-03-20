@@ -55,8 +55,6 @@ $(function() {
     });
 
     $('#search-ajax-btn').click(function() {
-        var url = window.location.hostname + window.location.pathname;
-
         var form = $('#searchForm');
         var q = '';
         $.ajax({
