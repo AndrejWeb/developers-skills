@@ -1,0 +1,34 @@
+.body-bgcolor {
+    background: #0059b3;
+}
+.table {
+    width: 100%;
+}
+#skills-container {
+    max-height: 300px;
+    overflow: auto;
+    border: 1px solid #eee;
+}
+.container-fluid {
+    width: 90%;
+}
+.col-md {
+    border-right: 1px solid #ccc;
+}
+label {
+    font-weight: bold;
+}
+#search-container {
+    margin-top: 15px;
+    background: #e6e6e6;
+}
+.thead-blue {
+    background: #337ab7;
+    color: #fff;
+}
+.item_json {
+    display: none;
+}
+.filter-input {
+    display: none;
+}
