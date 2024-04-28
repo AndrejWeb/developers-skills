@@ -1,8 +1,6 @@
 # Developers & Skills
 <hr/>
 Demo project which focuses on filtering database data based on provided criteria.
-
-URL for project testing: http://andrejphp.dx.am/developers-skills/
 <br /><br />
 To setup & run the project:
 
